@@ -1,0 +1,15 @@
+.footer,
+
+
+.home-section,
+.header{
+    background-color: #d70d25;
+}
+
+.Copyright{
+    background-color: rgba(197, 77, 77, 0.993);
+}
+
+.footer .footer-social-linKs a:hover i{
+color: #d70d25;
+}
